@@ -104,9 +104,18 @@ Discord ではできないが本来はネタバレ防止の場所でやってい
 
 \![assets/spoiler.gif]\(assets/spoiler.gif)
 
+## 応用
+
+![assets/spoiler.gif](assets/chaos.png)
+
+それと、Discord の日本語フォントは斜体に対応していない。
+
+![assets/spoiler.gif](assets/italic.png)
+
+## 〆
 
 一旦これまで。記述不足があるかもしれないので気づいた場合は issue を開いてほしい。
 
-よく誤字ったりミスったりいろいろするのでその時もissueを開いてほしい。
+よく誤字ったりミスったりいろいろするのでその時も issue を開いてほしい。
 
 ﾏﾀﾈヾ(≧▽≦\*)o
