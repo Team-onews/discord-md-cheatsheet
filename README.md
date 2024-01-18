@@ -98,7 +98,7 @@ console.log("こんなかんじ");
 
 \[プレースホルダ?](URL)
 
-こんな感じ: [My Homepage](https://070ry.pages.dev/home)
+こんな感じ: [Our Homepage](https://team-onews.github.io/) [My Homepage](https://070ry.pages.dev/home)
 
 Discord ではできないが本来はネタバレ防止の場所でやっているように、画像を表示することもできる。
 
