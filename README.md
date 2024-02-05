@@ -96,7 +96,7 @@ console.log("こんなかんじ");
 
 <h3 id="10">ハイパーリンク</h3>
 
-\[プレースホルダ?](URL)
+\[プレースホルダー?](URL)
 
 こんな感じ: [Our Homepage](https://team-onews.github.io/) [My Homepage](https://070ry.pages.dev/home)
 
